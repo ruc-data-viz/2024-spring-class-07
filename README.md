@@ -1,4 +1,4 @@
-# 2024-spring-class-07
+# Class 07: Web-based and Interactive Dashboards
 
 Today's class will focus on:
 
